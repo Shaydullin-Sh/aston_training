@@ -84,6 +84,8 @@ public class App
         taxi.move();
         System.out.println("**************************");
         airplane.move();
+        System.out.println("**************************");
+        truck.move();
 
     }
 }
