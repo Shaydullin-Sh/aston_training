@@ -15,6 +15,7 @@ public class Main {
         //используем объект класса Student в качестве параметра метода infoPerson класса Person
         //это возможно благодаря полиморфизму
         System.out.println(person1.infoPerson(student1));
+        
 
     }
 }
